@@ -285,7 +285,7 @@ Clientes com muitos dias de atraso possuem maior risco de churn e podem receber 
 
 ---
 
-# 🚀 Possíveis evoluções do projeto
+# Possíveis evoluções do projeto
 
 Como próximos passos, o projeto pode ser expandido com:
 
